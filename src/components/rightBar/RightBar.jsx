@@ -1,5 +1,3 @@
-
-import ReactDOM from 'react-dom'
 import "./rightBar.scss"
 
 const RightBar = () => {
