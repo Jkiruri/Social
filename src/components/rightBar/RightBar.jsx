@@ -1,0 +1,12 @@
+
+import ReactDOM from 'react-dom'
+import "./rightBar.scss"
+
+const RightBar = () => {
+  return (
+    <div className="rightBar">RightBar
+    </div>
+  )
+}
+
+export default RightBar
