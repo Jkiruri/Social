@@ -75,7 +75,7 @@ const RightBar = () => {
               <img src={Dog} alt="" />
               <p>
               <span>John Doe</span>
-              Changed their cover picture 
+                Changed their cover picture 
               </p>
             </div>
             <span>1 min ago</span>
